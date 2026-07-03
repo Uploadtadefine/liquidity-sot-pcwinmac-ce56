@@ -1,4 +1,4 @@
-# 
+# Código abierto liquidity sniper bot scripts para Mac OS | Seguro liquidity sniper bot scripts para PC Windows. Con detección de impuesto de venta y subastas de gas prioritario — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
